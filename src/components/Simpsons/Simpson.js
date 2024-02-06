@@ -1,4 +1,4 @@
-const Simpson = (simpson) => {
+const Simpson = ({simpson}) => {
     const {name,surname,age,info,photo}=simpson;
 
     return (
